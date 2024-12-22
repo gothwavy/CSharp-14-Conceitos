@@ -1,0 +1,14 @@
+E:\CSharp\POO\14_Abstracao\bin\Debug\net8.0\14_Abstracao.exe
+E:\CSharp\POO\14_Abstracao\bin\Debug\net8.0\14_Abstracao.deps.json
+E:\CSharp\POO\14_Abstracao\bin\Debug\net8.0\14_Abstracao.runtimeconfig.json
+E:\CSharp\POO\14_Abstracao\bin\Debug\net8.0\14_Abstracao.dll
+E:\CSharp\POO\14_Abstracao\bin\Debug\net8.0\14_Abstracao.pdb
+E:\CSharp\POO\14_Abstracao\obj\Debug\net8.0\14_Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\POO\14_Abstracao\obj\Debug\net8.0\14_Abstracao.AssemblyInfoInputs.cache
+E:\CSharp\POO\14_Abstracao\obj\Debug\net8.0\14_Abstracao.AssemblyInfo.cs
+E:\CSharp\POO\14_Abstracao\obj\Debug\net8.0\14_Abstracao.csproj.CoreCompileInputs.cache
+E:\CSharp\POO\14_Abstracao\obj\Debug\net8.0\14_Abstracao.dll
+E:\CSharp\POO\14_Abstracao\obj\Debug\net8.0\refint\14_Abstracao.dll
+E:\CSharp\POO\14_Abstracao\obj\Debug\net8.0\14_Abstracao.pdb
+E:\CSharp\POO\14_Abstracao\obj\Debug\net8.0\14_Abstracao.genruntimeconfig.cache
+E:\CSharp\POO\14_Abstracao\obj\Debug\net8.0\ref\14_Abstracao.dll
